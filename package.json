@@ -1,0 +1,25 @@
+{
+  "name": "picpay-simplified",
+  "version": "1.0.0",
+  "description": "O PicPay Simplificado é uma plataforma de pagamentos simplificada. Nela é possível depositar e realizar transferências de dinheiro entre usuários. Projeto Realizado para o Desafio técnico do PicPay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.7.0",
+    "@tsconfig/node20": "^20.1.4",
+    "@types/express": "^4.17.21",
+    "eslint": "9.x",
+    "globals": "^15.8.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3",
+    "typescript-eslint": "^7.16.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
